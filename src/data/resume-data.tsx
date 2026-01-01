@@ -55,34 +55,7 @@ export const RESUME_DATA = {
     },
   ],
   work: [
-    {
-      company: "Film.io",
-      link: "https://film.io",
-      badges: ["Remote", "React", "Next.js", "TypeScript", "Node.js"],
-      title: "Software Architect",
-      logo: ConsultlyLogo,
-      start: "2024",
-      end: null,
-      description: (
-        <>
-          Leading technical architecture of a blockchain-based film funding
-          platform.
-          <ul className="list-inside list-disc">
-            <li>
-              Architecting migration from CRA to Next.js for improved
-              performance, SEO, and DX
-            </li>
-            <li>
-              Established release process enabling faster deployments and
-              reliable rollbacks
-            </li>
-            <li>
-              Implementing system-wide monitoring and security improvements
-            </li>
-          </ul>
-        </>
-      ),
-    },
+   
     {
       company: "Parabol",
       link: "https://parabol.co",
